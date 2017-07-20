@@ -1,3 +1,4 @@
 Witaj swiecie
+Linijka mastera
 To plik do konfliktu
 Co sie bedzie dzia³o 
